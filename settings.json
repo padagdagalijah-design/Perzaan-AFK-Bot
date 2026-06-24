@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "astralhav3n.play.hosting",
-    "port": 44151,
+    "ip": "astralhav3n.minekeep.gg",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
